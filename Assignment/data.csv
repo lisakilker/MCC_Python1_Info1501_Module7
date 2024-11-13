@@ -1,0 +1,26 @@
+id,first_name,last_name,age,city,phone_number
+0,John,Doe,25,New York,123-456-7890
+1,Jane,Smith,32,Los Angeles,987-654-3210
+2,Michael,Johnson,45,Chicago,555-123-4567
+3,Emily,Brown,28,Houston,999-888-7777
+4,William,Jones,22,Miami,111-222-3333
+5,Sophia,Lee,38,San Francisco,444-555-6666
+6,Alexander,Wilson,29,Seattle,777-888-9999
+7,Olivia,Miller,50,Boston,666-555-4444
+8,Daniel,Moore,31,Atlanta,222-333-4444
+9,Isabella,Anderson,27,Dallas,888-777-6666
+10,Ethan,Thomas,35,Denver,444-333-2222
+11,Mia,Jackson,24,Phoenix,777-666-5555
+12,James,White,42,Austin,555-666-7777
+13,Ava,Harris,20,San Diego,666-777-8888
+14,Benjamin,Martin,26,Portland,999-888-7777
+15,Sofia,Thompson,48,Philadelphia,333-222-1111
+16,Elijah,Garcia,23,Detroit,222-333-4444
+17,Chloe,Martinez,33,Minneapolis,555-666-7777
+18,Logan,Robinson,36,Charlotte,111-555-3333
+19,Amelia,Clark,40,Orlando,888-444-5555
+20,Lucas,Rodriguez,21,Phoenix,666-555-4444
+21,Luna,Lopez,30,Miami,333-444-5555
+22,Henry,Hall,37,Chicago,222-555-6666
+23,Harper,Young,34,Atlanta,444-555-6666
+24,William,King,39,Seattle,555-444-5555
